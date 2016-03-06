@@ -18,6 +18,8 @@ int ledblink = 8;
 int ledfastblink = 10;
 int daVariable = 67;
 int thisIsAnotherChange = "ok";
+int dontLikeThisOne = "nope:(";
+int anotherChange = "yup";
 // the PWM pin the LED is attached to
 int brightness = 0;    // how bright the LED is
 int fadeAmount = 5;    // how many points to fade the LED by

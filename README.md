@@ -1,2 +1,3 @@
 # arduino_led
-example play code
+
+LED light sequences
